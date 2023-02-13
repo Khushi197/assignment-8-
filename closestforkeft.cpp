@@ -43,5 +43,4 @@ int main() {
  
     return 0;
 }
-Footer
-© 2023 GitHub, Inc.
+
